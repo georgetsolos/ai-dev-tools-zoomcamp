@@ -1,0 +1,66 @@
+Homework 1: Introduction for AI Dev Tools Zoomcamp 2025
+https://github.com/DataTalksC…
+
+Due date: 28 November 2025 01:00 (local time)
+
+Questions
+Question 1. Install Django (1 point)
+
+uv add django
+Question 2. Project and App (1 point)
+
+
+settings.py
+
+manage.py
+
+urls.py
+
+wsgi.py
+Question 3. Django models (1 point)
+
+
+Run the application
+
+Add the models to the admin panel
+
+Run migrations
+
+Create a makefile
+Question 4. TODO Logic (1 point)
+
+
+views.py
+
+urls.py
+
+admin.py
+
+tests.py
+Question 5. Templates (1 point)
+
+
+INSTALLED_APPS in project's settings.py
+
+TEMPLATES['DIRS'] in project's settings.py
+
+TEMPLATES['APP_DIRS'] in project's settings.py
+
+In the app's urls.py
+Question 6. Tests (1 point)
+
+
+pytest
+
+python manage.py test
+
+python -m django run_tests
+
+django-admin test
+Homework URL 
+Learning in public links (optional) 
+Time spent on lectures (hours) (optional) 
+3
+Time spent on homework (hours) (optional) 
+5
+FAQ contribution (FAQ document, optional) 
