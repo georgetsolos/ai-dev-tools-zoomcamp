@@ -57,7 +57,7 @@ python manage.py test
 python -m django run_tests
 
 django-admin test
-Homework URL 
+Homework URL module1
 Learning in public links (optional) 
 Time spent on lectures (hours) (optional) 
 3
